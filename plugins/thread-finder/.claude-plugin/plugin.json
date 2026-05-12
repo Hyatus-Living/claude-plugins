@@ -1,0 +1,16 @@
+{
+  "name": "thread-finder",
+  "version": "0.2.0",
+  "description": "Hybrid BM25 and vector search over local Claude Code session transcripts.",
+  "author": {
+    "name": "Meshulum Ort"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "claude-code",
+    "sessions",
+    "search",
+    "hybrid-search",
+    "embeddings"
+  ]
+}

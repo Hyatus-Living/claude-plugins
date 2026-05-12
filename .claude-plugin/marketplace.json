@@ -1,0 +1,20 @@
+{
+  "name": "hyatus-claude-plugins",
+  "owner": {
+    "name": "Hyatus Living"
+  },
+  "metadata": {
+    "description": "Dedicated Claude Code plugin repository for Hyatus Living."
+  },
+  "plugins": [
+    {
+      "name": "thread-finder",
+      "description": "Hybrid BM25 + vector search over local Claude Code session history.",
+      "author": {
+        "name": "Meshulum Ort"
+      },
+      "category": "productivity",
+      "source": "./plugins/thread-finder"
+    }
+  ]
+}

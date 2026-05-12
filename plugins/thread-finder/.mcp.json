@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "thread-finder": {
+      "type": "stdio",
+      "command": "${CLAUDE_PLUGIN_ROOT}/scripts/launch.sh",
+      "env": {
+        "THREAD_FINDER_EMBEDDING_MODEL": "text-embedding-3-large"
+      }
+    }
+  }
+}
